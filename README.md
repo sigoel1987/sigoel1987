@@ -44,17 +44,6 @@ I specialize in modern UI and API automation and am currently expanding my exper
 - Test Reporting
 - Test Artifacts
 
-### 🤖 AI & GenAI Testing
-
-- LLM Testing
-- Prompt Testing
-- RAG Testing
-- Hallucination Testing
-- AI Response Validation
-- Guardrails Testing
-- AI Agent Testing
-- GenAI Observability
-
 ---
 
 ## 🚀 Automation Engineering
@@ -110,16 +99,6 @@ Reusable API automation framework for validating REST services.
 ### 🤖 AI & GenAI Testing
 
 Exploring quality engineering approaches for AI-powered applications.
-
-**Areas of Focus:**
-
-- LLM response validation
-- RAG evaluation
-- Hallucination detection
-- Prompt testing
-- Guardrails
-- AI agents
-- AI observability
 
 ---
 
